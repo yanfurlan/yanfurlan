@@ -4,7 +4,7 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayrajroshan/)](https://www.linkedin.com/in/yan-furlan-455ab820b/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/roshanjayraj/)](https://www.instagram.com/yanfurlan/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@jayrajroshan1@gmail.com)](yangabrielfurlan@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@yangabrielfurlan@gmail.com)](yangabrielfurlan@gmail.com)
 
 ## ⚡ Skills:
 - SQL
