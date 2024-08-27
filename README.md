@@ -11,9 +11,9 @@ Ampla experiência em suporte técnico e administração de diversos sistemas de
 
 Extensive experience in technical support and administration of various database management systems (DBMS). With expertise in MySQL, SQL Server, Neo4J, Postgre, Oracle, and MongoDB, I am ready to drive efficiency and operational excellence in your systems.
 
-    MySQL, SQL Server, Neo4J, Postgre: Deep knowledge in advanced queries, database administration, and performance optimization.
-    Oracle: Solid experience in administration, tuning, and database management.
-    MongoDB: Competence in operations, queries, and administration of NoSQL databases.
+  MySQL, SQL Server, Neo4J, Postgre: Deep knowledge in advanced queries, database administration, and performance optimization.
+  Oracle: Solid experience in administration, tuning, and database management.
+  MongoDB: Competence in operations, queries, and administration of NoSQL databases.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayrajroshan/)](https://www.linkedin.com/in/yan-furlan-455ab820b/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/roshanjayraj/)](https://www.instagram.com/yanfurlan/)
