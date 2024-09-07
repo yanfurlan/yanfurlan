@@ -32,3 +32,40 @@ MySQL, SQL Server, Neo4J, Postgre: Deep knowledge in advanced queries, database 
 - MongoDB
 - DB2
 - Python
+
+
+## Certificados/Certificates:
+
+Oracle Cloud Infrastructure 2023 Certified Foundations Associate
+
+Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate
+
+Neo4j Certified Professional
+
+Neo4j Graph Data Science Certification
+
+MongoDB M103, M150, M201, M312
+
+MongoDB Aggregation
+
+SQL com MySQL Server da Oracle - Alura
+
+SQL com PostgreSQL - Alura
+
+Modelagem de dados - Alura
+
+Consultas com Oracle Database - Alura
+
+Modelagem de dados - Alura
+
+Data Warehouse com Data Lake e SQL Server - Alura
+
+Engenharia de dados com Databricks - Alura
+
+Otimização com Python - Alura
+
+Python para Data Science - Alura
+
+Administração e performance com Oracle Database - Alura
+
+Avançando em Data Science com Python - Alura
